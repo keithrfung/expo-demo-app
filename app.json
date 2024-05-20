@@ -21,6 +21,11 @@
         "backgroundColor": "#ffffff"
       }
     },
+    "extra": {
+      "eas": {
+        "projectId": "Expo.dev project ID GUID goes here"
+      }
+    },
     "web": {
       "favicon": "./assets/favicon.png"
     },
